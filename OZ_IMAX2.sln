@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OZ_IMAX2.DAL", "OZ_IMAX2.DAL\OZ_IMAX2.DAL.csproj", "{757DA58F-DA6C-4450-9144-0036E7AEE45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OZ_IMAX2.DATA", "OZ_IMAX2.DATA\OZ_IMAX2.DATA.csproj", "{1BD70BB2-DE56-4962-BB53-94C2A204C551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757DA58F-DA6C-4450-9144-0036E7AEE45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757DA58F-DA6C-4450-9144-0036E7AEE45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757DA58F-DA6C-4450-9144-0036E7AEE45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757DA58F-DA6C-4450-9144-0036E7AEE45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD70BB2-DE56-4962-BB53-94C2A204C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD70BB2-DE56-4962-BB53-94C2A204C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD70BB2-DE56-4962-BB53-94C2A204C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD70BB2-DE56-4962-BB53-94C2A204C551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
